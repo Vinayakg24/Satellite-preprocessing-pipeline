@@ -11,8 +11,9 @@ venv/
 data/
 
 # Outputs
-outputs/
-
+outputs/*
+!outputs/plots/
+!outputs/plots/*
 # IDE
 .vscode/
 .idea/
